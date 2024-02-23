@@ -1,1 +1,1 @@
-# JupyterLite only
+# JupyterLite localfolder moved
