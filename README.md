@@ -1,1 +1,1 @@
-# changed JupyterLite 
+# JupyterLite only
