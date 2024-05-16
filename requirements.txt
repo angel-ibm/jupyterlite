@@ -6,6 +6,7 @@ notebook~=7.1.2
 
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.3.1
+jupyterlite-xeus
 
 # JavaScript kernel (optional)
 jupyterlite-javascript-kernel==0.3.0
@@ -13,7 +14,6 @@ jupyterlite-javascript-kernel==0.3.0
 
 # Support for fromURL="https://raw.githubusercontent.com/...."
 jupyterlab-open-url-parameter==0.3.0
-
 
 # Language support (optional)
 jupyterlab-language-pack-fr-FR
